@@ -1,4 +1,4 @@
 # Shop
 Shop
 
-![Screenshot](Logo-Shop.jpeg)
+![Screenshot](Logo-Shop.jpg)
